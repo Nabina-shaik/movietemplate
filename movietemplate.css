@@ -1,0 +1,37 @@
+.container{
+background-image:  url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+width:700px
+}
+#carouselExampleIndicators{
+    width: 600px;
+    padding-top:30px;
+}
+.heading{
+    color: #ffffff;
+    max-width: 300px;
+    font-family: Roboto;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.btn{
+   margin-top: 20px;
+    background-color: #ffffff;
+    margin-top: 20px;
+    margin-left: 180px;
+    color: #ff8348;
+    font-family: Roboto;
+    max-width: 300px;
+}
+.para{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color:#ffffff;
+    font-family: Roboto;
+}
+.img{
+     margin-top: 20px;
+    margin-left:35px;
+    padding-bottom: 40px;
+    width: 140px;
+}
